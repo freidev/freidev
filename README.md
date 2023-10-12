@@ -29,6 +29,6 @@ I'm a passionate FrontEnd developer specialized in web and mobile development. T
 
 - GitHub: [github.com/freidev](https://github.com/freidev)
 - LinkedIn: [linkedin.com/in/freilyn-bernabe](https://linkedin.com/in/freilyn-bernabe)
-- Email: your.email@example.com
+- Email: freilynbpwork@gmail.com
 
 Feel free to check out my pinned [repositories](https://github.com/freidev?tab=repositories) and let's get the code flowing!
